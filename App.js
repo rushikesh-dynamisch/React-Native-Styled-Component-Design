@@ -33,6 +33,7 @@ import { Categories } from './Components/Categories';
 import { Cards } from './Components/Cards';
 import { NewCards } from './Components/NewCards';
 import { BottomMenu } from './Components/BottomMenu';
+import { SecondPage } from './Components/SecondPage';
 /* $FlowFixMe[missing-local-annot] The type annotation(s) required by Flow's
  * LTI update could not be added via codemod */
 // const Section = ({children, title}): Node => {
@@ -78,6 +79,7 @@ const App= () => {
    {/* <Cards/> */}
    <NewCards/>
    <BottomMenu/>
+   <SecondPage/>
    </Component>
 
    </ScrollView>
