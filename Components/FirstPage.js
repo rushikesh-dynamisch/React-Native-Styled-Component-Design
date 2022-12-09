@@ -11,7 +11,7 @@ export const FirstPage=()=>
       <Text>Good for you.</Text>
       <Text2>Greate for life.</Text2>
       <Iconimg source={require('../Components/Images/BellIcon.jpg')} />
-
+      
       </View>
       )
     

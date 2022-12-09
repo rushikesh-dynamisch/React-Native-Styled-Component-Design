@@ -81,7 +81,7 @@ const App= () => {
    <BottomMenu/>
    <SecondPage/>
    </Component>
-
+   
    </ScrollView>
   );
 };
